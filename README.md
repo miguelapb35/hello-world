@@ -1,5 +1,5 @@
 # hello-world
-Traditional hello world fro Github
+Traditional hello world for Github
 
 I am a Web Developer, I love learning new useful programming 
 languages and techniques. 
