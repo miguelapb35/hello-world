@@ -4,7 +4,7 @@ Traditional hello world for Github
 I am a Web Developer, I love learning new useful programming 
 languages and techniques. 
 My name is Miguel Angel, I am currently developing in Angular,
-React, Node, and also somo apps in Android.
+React, Node, and also apps in Android.
 In the future I would like to learn about AI and Machine Learning.
 I am going to make some online stores and course platforms
 either in React or Angular.
